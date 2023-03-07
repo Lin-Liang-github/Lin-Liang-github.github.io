@@ -1,0 +1,21 @@
+h1 {
+    color: #b0e0ff;
+}
+
+body {
+    background-color: pink;
+    font-weight: 800;
+}
+
+.card {
+    background-color: aqua;
+}
+
+.card > p {
+    background-color: red;
+    padding: 1px 10px;
+}
+
+#sss_card {
+    background-color: red;
+}
